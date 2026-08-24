@@ -1,5 +1,13 @@
 # @docx-editor.dev/editor-api
 
+## 2.8.1
+
+### Patch Changes
+
+- Updated dependencies [0f09123]
+- Updated dependencies [abd2d27]
+  - @docx-editor.dev/core@2.8.1
+
 ## 2.8.0
 
 ### Patch Changes

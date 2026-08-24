@@ -1,5 +1,13 @@
 # @docx-editor.dev/core
 
+## 2.8.1
+
+### Patch Changes
+
+- 0f09123: List markers now reflow when the numbering level's face or size changes.
+- abd2d27: Selection writes in a repeating table header now land on the page the user is looking at, so copy and typing no longer target the first painted copy.
+  - @docx-editor.dev/i18n@2.8.1
+
 ## 2.8.0
 
 ### Minor Changes
